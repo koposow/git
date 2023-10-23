@@ -38,7 +38,7 @@
 ### Решение 2
 touch .gitignore
 
-ссылка на коммит для задания 2 (https://github.com/koposow/git/commit/81772a898075e2212fae4cc9b47f864da549c12c)
+[ссылка на коммит для задания 2](https://github.com/koposow/git/commit/81772a898075e2212fae4cc9b47f864da549c12c)
 
 ---
 
