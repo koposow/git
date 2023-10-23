@@ -23,23 +23,6 @@
 ### Решение 1
 
 [Ссылка на коммит к первому заданию](https://github.com/koposow/git/commit/e38a08bcd95a55211cf5d739f275d4b14f291d1a)
-![git status](/img/Screenshot%20at%20Oct%2023%2019-33-49.png)
-git status
-Текущая ветка: main
-Эта ветка соответствует «origin/main».
-
-git diff
-![git status](/img/Screenshot%20at%20Oct%2023%2019-37-04.png)
-
-git diff --staged
-![git status](/img/Screenshot%20at%20Oct%2023%2019-42-04.png)
-
-git add README.md
-![git status](/img/Screenshot%20at%20Oct%2023%2019-44-32.png)
-
-git push origin main 
-![git status](/img/Screenshot%20at%20Oct%2023%2020-57-53.png)
-
 ---
 
 ### Задание 2
@@ -54,7 +37,6 @@ git push origin main
 
 ### Решение 2
 touch .gitignore
-![git status](/img/Screenshot%20at%20Oct%2023%2021-03-24.png)
 
 ссылка на коммит для задания 2 (https://github.com/koposow/git/commit/81772a898075e2212fae4cc9b47f864da549c12c)
 
