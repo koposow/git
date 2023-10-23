@@ -56,6 +56,9 @@ git diff --staged
 git add README.md
 ![git status](/img/Screenshot%20at%20Oct%2023%2019-44-32.png)
 
+git push origin main 
+![git status](/img/Screenshot%20at%20Oct%2023%2020-57-53.png)
+
 ---
 
 ### Задание 2
@@ -68,6 +71,11 @@ git add README.md
 4. Сделайте коммит и пуш.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+### Решение 2
+touch .gitignore
+![git status](/img/Screenshot%20at%20Oct%2023%2021-03-24.png)
+
+тут должна быть ссылка
 
 ---
 
