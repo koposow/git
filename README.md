@@ -21,6 +21,8 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение 1
+
+[Ссылка на коммит к первому заданию](https://github.com/koposow/git/commit/e38a08bcd95a55211cf5d739f275d4b14f291d1a)
 ![git status](/img/Screenshot%20at%20Oct%2023%2019-33-49.png)
 git status
 Текущая ветка: main
@@ -54,7 +56,7 @@ git push origin main
 touch .gitignore
 ![git status](/img/Screenshot%20at%20Oct%2023%2021-03-24.png)
 
-https://github.com/koposow/git/blob/0718a25efc44b121238fc53d5e8f0b32222567fb/.gitignore
+ссылка на коммит для задания 2 (https://github.com/koposow/git/commit/81772a898075e2212fae4cc9b47f864da549c12c)
 
 ---
 
