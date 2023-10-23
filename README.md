@@ -75,7 +75,7 @@ git push origin main
 touch .gitignore
 ![git status](/img/Screenshot%20at%20Oct%2023%2021-03-24.png)
 
-тут должна быть ссылка
+https://github.com/koposow/git/blob/0718a25efc44b121238fc53d5e8f0b32222567fb/.gitignore
 
 ---
 
