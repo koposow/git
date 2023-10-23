@@ -77,6 +77,6 @@ https://github.com/koposow/git/blob/0718a25efc44b121238fc53d5e8f0b32222567fb/.gi
 скрин для Git
 
 ### Решение 3
-
+[Ссылка на граф для задания 3](https://github.com/koposow/git/network)
 
 
